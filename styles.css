@@ -179,6 +179,10 @@ a.facebook {
   margin-top: 15px;
 }
 
+.main-li-item li {
+  margin-bottom: 10px;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   .flex {
